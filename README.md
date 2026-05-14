@@ -12,5 +12,6 @@ Gabi Kbrown
 
 oi
 
+alterando um aquivo na nuvem quando existe um repositório local
 
 

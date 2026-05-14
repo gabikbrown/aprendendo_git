@@ -1,0 +1,1 @@
+Trabalhe sempre no ramo de dev, e depois espelhe as mudanças para o ramo principal
